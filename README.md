@@ -1,5 +1,5 @@
 # Background Color Changer
-This is a simple React project that allows users to change the background color of the page by clicking buttons. The project is built as part of my React learning journey from [Chai aur Code](https://www.youtube.com/@ChaiAurCode).
+This is a simple React project that allows users to change the background color of the page by clicking buttons. The project is built as part of my React learning journey.
 
 ## Features
 
