@@ -26,10 +26,6 @@ This is a simple React project that allows users to change the background color 
    npm run dev
    ```
 
-## Learning Source
-
-This project is inspired by tutorials from [Chai aur Code](https://www.youtube.com/@ChaiAurCode), a great resource for learning React and modern web development.
-
 ## License
 
 This project is for educational purposes.
